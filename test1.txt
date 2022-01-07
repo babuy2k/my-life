@@ -1,9 +1,7 @@
 I come 1 February 1980 in this world
 I complete my SSC in 1994
 I comlete my HSC in 1996
-<<<<<<< HEAD
-I complete my Graduation in 1998
-Now i am doing business
-=======
 I complete my Graduation in 2000
->>>>>>> 17e0477a95d91df901ba9ef6b0199d5087afe461
+Now i am doing business
+
+
